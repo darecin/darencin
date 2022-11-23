@@ -1,0 +1,2 @@
+'\n'.charCodeAt();
+'\n'.codePointAt();
